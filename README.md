@@ -1,11 +1,11 @@
-### Hi, i'm Monste
+# Hi, i'm Monste
 
-##### Technologies which i use:
+## Technologies which i use:
 
 - HTML
 - CSS
 - JavaScript
 
-##### I'm learning...
+## I'm learning...
 
 - PHP
