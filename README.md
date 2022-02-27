@@ -17,6 +17,7 @@ Today I experience creating website templates.
 ## I'm learning...
 
 - PHP
+- MySQL
 
 
 ## Contact Me
