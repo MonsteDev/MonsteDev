@@ -1,4 +1,4 @@
-#### Hi, i'm Monste
+# Hi, i'm Monste
 
 ## About Me
 
@@ -8,16 +8,13 @@ Today I experience creating website templates.
 - Founder [Electro Network](https://discord.gg/k8C85FRSrn) 
 - Founder and Ideator of [SkyForce Unity](https://discord.gg/MHKjGEcDGJ)
 
-## Technologies which i use:
+- Actually Working on Websites Templates
 
-- HTML
-- CSS
-- JavaScript
+## What i Know
 
-## I'm learning...
-
-- PHP
-- MySQL
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** Bootstrap, React.js
+- **Learning:** Node.js, MongoDB
 
 
 ## Contact Me
