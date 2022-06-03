@@ -12,12 +12,8 @@ Today I experience creating website templates or discord bots
 
 ## What i Know
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** Bootstrap, React.js
-- **Learning:** Node.js, MongoDB
-
-- **Discord Development:** Discord.js
-
+・:robot: Learning **Bot Development**
+・:computer: Front-end **Web Developer**
 
 ## Contact Me
 
