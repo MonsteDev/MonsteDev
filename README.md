@@ -28,7 +28,5 @@ Hi, i'm a web developer.
 
 ## Contact Me
 
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
-
 - Monste#0034
 - monste.dev@gmail.com
