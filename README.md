@@ -15,7 +15,7 @@ Hi, i'm a web developer.
 
 ### Backend Development & Databases
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,mongodb)](https://skillicons.dev)
 
 ### Project Development, Management & Deployment
 
@@ -23,7 +23,7 @@ Hi, i'm a web developer.
 
 ### In program to learning
 
-[![My Skills](https://skillicons.dev/icons?i=git,express,electron,php,tailwind,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,express,electron,tailwind,ts)](https://skillicons.dev)
 
 
 ## Contact Me
