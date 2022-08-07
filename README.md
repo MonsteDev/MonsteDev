@@ -1,32 +1,25 @@
-# Hi, i'm Monste
+# About Me
 
-## About Me
+> Hi, I'm Monste, I'm a young web developer from Italy, but I also speak romanian, english and a little french. <br/>
+> Here's my main project [SkyForce Unity](https://skyforce.pro). Join [Discord](https://discord.gg/skyforce).
 
-Hi, i'm a web developer.
+``` js
+✈️ SkyForce Unity: The largest server collaboration service in italy.
+``` 
 
-- Founder [Electro Network](https://discord.gg/k8C85FRSrn) 
-- Founder and Ideator of [SkyForce Unity](https://discord.gg/MHKjGEcDGJ)
+> Above there's the list of what i know as a web developer.
 
-## What i Know
+``` js
+💻 Languages: HTML, CSS, JavaScript and PHP. 
+🚀 Frameworks: Bootstrap, Tailwind, React and Next.
+🏦 Databases: MongoDB and MySQL.
+```
 
-### Front-end Development
+# Contact Me
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)](https://skillicons.dev)
+> If you want to concact me, here's some ways.
 
-### Backend Development & Databases
-
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,mongodb,mysql)](https://skillicons.dev)
-
-### Project Development, Management & Deployment
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,netlify)](https://skillicons.dev)
-
-### In program to learning
-
-[![My Skills](https://skillicons.dev/icons?i=git,express,electron,tailwind,ts)](https://skillicons.dev)
-
-
-## Contact Me
-
-- Monste#0034
-- monste.dev@gmail.com
+``` js
+🤖 Discord: Monste#0034
+📧 e-mail: monste.dev@gmail.com
+```
