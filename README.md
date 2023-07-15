@@ -1,6 +1,6 @@
 # About Me
 
-> Hi, I'm Monste, I'm a young web developer from Italy, but I also speak romanian, english and a little french. <br/>
+> Hi, I'm Monste, I'm a young web developer from Italy. <br/>
 > Here's my main project [SkyForce Unity](https://skyforce.pro). Join [Discord](https://discord.gg/skyforce).
 
 ``` js
