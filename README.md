@@ -16,7 +16,7 @@
 > Usually I prefer to use PHP and MySQL.
 
 ``` js
-💻 Languages: HTML, CSS, JavaScript and PHP. 
+💻 Languages: HTML, CSS, JavaScript, PHP and C++. 
 🚀 Frameworks: Bootstrap, Tailwind, React and Next.
 🏦 Databases: MongoDB and MySQL.
 ```
