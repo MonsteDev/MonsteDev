@@ -3,7 +3,6 @@
 > Hi, I'm Monste, I'm a young web developer from Italy. <br/>
 
 > Above there's the list of what i know as a web developer.
-> Usually I prefer to use PHP and MySQL.
 
 ``` js
 💻 Languages: HTML, CSS, JavaScript, PHP and C++. 
